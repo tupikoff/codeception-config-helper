@@ -1,5 +1,5 @@
 <?php
-namespace Codeception\Module;
+namespace Helper;
 
 class ConfigHelper extends \Codeception\Module
 {
